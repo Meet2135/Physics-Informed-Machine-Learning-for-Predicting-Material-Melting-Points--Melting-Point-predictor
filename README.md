@@ -83,7 +83,6 @@ The project builds upon the hypothesis that **macroscopic properties** (like mel
 - **Modeling**: A stacked regression model learns the non-linear mapping between these physical descriptors and the melting temperature ($T_m$).
 
 ## 📈 Results
-- **RMSE**: < 100 K on the test set.
 - **R² Score**: High correlation between predicted and actual values (see `Final_Parity_Plot.png` in the app folder).
 
 ## 📸 Project Screenshots
